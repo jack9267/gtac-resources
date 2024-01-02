@@ -1,0 +1,9 @@
+<meta>
+	<info author="jack9267" description="Provides a speedometer when in a vehicle." />
+
+	<script src="client.js" type="client" language="javascript" />
+
+	<file src="Speedometer.png" type="client" />
+	<file src="SpeedometerKnots.png" type="client" />
+	<file src="SpeedometerNeedle.png" type="client" />
+</meta>

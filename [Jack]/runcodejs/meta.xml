@@ -1,0 +1,6 @@
+<meta>
+	<info author="jack9267" description="Provides ability to run code on the server or client, careful who you trust." />
+
+	<script src="client.js" type="client" language="javascript" />
+	<script src="server.js" type="server" language="javascript" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<info author="jack9267" description="Provides ability to run code on the server or client, careful who you trust." />
+
+	<script src="client.nut" type="client" language="squirrel" />
+	<script src="server.nut" type="server" language="squirrel" />
+</meta>

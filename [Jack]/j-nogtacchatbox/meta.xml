@@ -1,0 +1,5 @@
+<meta>
+	<info author="jack9267" description="Hides the GTAC chatbox." />
+
+	<script src="client.js" type="client" language="javascript" />
+</meta>
